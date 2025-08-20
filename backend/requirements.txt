@@ -1,0 +1,9 @@
+
+flask
+pydantic>=2.0
+sentence-transformers
+faiss-cpu
+pypdf
+docx2txt
+numpy
+openai>=1.0.0

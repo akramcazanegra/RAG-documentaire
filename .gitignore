@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Data / Index
+data/index/
+data/raw_documents/*
+
+# Streamlit
+.streamlit/
