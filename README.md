@@ -1,3 +1,6 @@
+📂 Data Folder:
+Download the corpus from Google Drive and place it under `data/raw_documents/` keeping the folder structure.
+
 #  RAG Document   Ready-to-Use Project
 
 This repository implements a **Retrieval-Augmented Generation (RAG)** system to query a document corpus (PDF/DOCX/TXT).
